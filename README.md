@@ -1,6 +1,6 @@
 Here's a formatted `README.md` file for your GitHub project:
 
-```markdown
+
 # ASR-API
 
 ## Overview
@@ -20,7 +20,7 @@ To run this project, you'll need the following Python packages:
 - **python-multipart**: To handle file uploads in FastAPI.
 
 ## Installation
-
+```markdown
 1. Clone this repository to your local machine:
 
    ```bash
